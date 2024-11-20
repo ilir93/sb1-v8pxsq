@@ -15,7 +15,7 @@ function App() {
       <div className="max-w-[1440px] mx-auto p-6">
         <div className="flex justify-between items-center mb-6">
           <h1 className="text-2xl font-bold text-gray-900 flex items-center gap-2">
-            <Brain className="text-emerald-500" size={32} />
+            <Brain color="#00FF41" size={32} />
             Keywords Brain
           </h1>
 
